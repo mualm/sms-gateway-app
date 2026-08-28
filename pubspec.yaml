@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  telephony: ^0.2.0
+  telephony_plus: ^0.0.4  # مكتبة حديثة تدعم Android v2 embedding
   http: ^1.1.0
 
 flutter:
